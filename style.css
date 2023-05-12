@@ -1,0 +1,31 @@
+
+body{
+    background:rgb(115, 185, 196)
+}
+.calc {
+    width: 328px;
+    height: 527px;
+    border: solid 2px;
+    margin-left: 321px;
+    margin-top: 164px;
+    background: rgb(101, 219, 95);
+}
+
+
+#ty {
+    margin-top: 29px;
+    margin-left: 13px;
+    width: 90%;
+    height: 44px;
+    border: solid 1px;
+    pointer-events: none;
+}
+.btn{
+    color: rgb(0, 4, 4);
+    background: #ffffff;
+    width: 41px;
+    height: 41px;
+    margin-top: 30px;
+    margin-left: 31px;
+}
+
